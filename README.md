@@ -25,10 +25,10 @@
 
 <h3 align="center">Stars</h3>
 <div class="row">
-  <div class="col">
+  <div class="col-6">
 <p>&nbsp;<img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=AtchayaGit&show_icons=true&locale=en&theme=onedark" alt="AtchayaGit" /></p>
   </div>
-  <div class="col">
+  <div class="col-6">
 <p><img align="center" height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=AtchayaGit&theme=onedark" alt="AtchayaGit" /></p>
   </div>
 </div>
