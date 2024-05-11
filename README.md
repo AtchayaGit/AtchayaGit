@@ -7,7 +7,7 @@
 <a href="https://linkedin.com/in/in/atchaya-r-901110251" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="in/atchaya-r-901110251" height="30" width="40" /></a></p>
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="Justify">
+<p align="center">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/php-original.svg" alt="PHP" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
@@ -24,9 +24,14 @@
 </p>
 
 <h3 align="center">Stars</h3>
+<div class="row">
+  <div class="col">
 <p>&nbsp;<img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=AtchayaGit&show_icons=true&locale=en&theme=onedark" alt="AtchayaGit" /></p>
-
+  </div>
+  <div class="col">
 <p><img align="center" height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=AtchayaGit&theme=onedark" alt="AtchayaGit" /></p>
+  </div>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
