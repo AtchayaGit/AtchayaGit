@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Atchaya</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AtchayaGit&label=Profile%20views&color=0e75b6&style=flat" alt="AtchayaGit" /> </p>
 
-<p style="background-image: url('[img_girl.jpg](https://www.freepik.com/free-vector/network-mesh-wire-digital-technology-background_10136775.htm#fromView=search&page=1&position=3&uuid=e870219e-6e4a-4fbd-8118-b11600a21b6b)');"></p>
+<p style="background-image: url('[img_girl.jpg](https://www.freepik.com/free-vector/network-mesh-wire-digital-technology-background_10136775.htm#fromView=search&page=1&position=3&uuid=e870219e-6e4a-4fbd-8118-b11600a21b6b)');">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/in/atchaya-r-901110251" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="in/atchaya-r-901110251" height="30" width="40" /></a></p>
@@ -42,3 +42,4 @@
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=AtchayaGit&theme=react-dark"/>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+</p>
