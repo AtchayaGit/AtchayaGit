@@ -2,13 +2,12 @@
 <h1 align="center">Hi 👋, I'm Atchaya</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AtchayaGit&label=Profile%20views&color=0e75b6&style=flat" alt="AtchayaGit" /> </p>
 
-<p style="background-image: url('[img_girl.jpg](https://www.freepik.com/free-vector/network-mesh-wire-digital-technology-background_10136775.htm#fromView=search&page=1&position=3&uuid=e870219e-6e4a-4fbd-8118-b11600a21b6b)');">
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="Center">Connect with me:</h3>
+<p align="Center">
 <a href="https://linkedin.com/in/in/atchaya-r-901110251" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="in/atchaya-r-901110251" height="30" width="40" /></a></p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
+<p align="Justify">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/php-original.svg" alt="PHP" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
@@ -24,10 +23,10 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 
-<h3 align="left">Stars</h3>
-<p>&nbsp;<img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=AtchayaGit&show_icons=true&locale=en&theme=onedark" alt="AtchayaGit" /></p>
+<h3 align="center">Stars</h3>
+<p>&nbsp;<img align="left" height="160em" src="https://github-readme-stats.vercel.app/api?username=AtchayaGit&show_icons=true&locale=en&theme=onedark" alt="AtchayaGit" /></p>
 
-<p><img align="center" height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=AtchayaGit&theme=onedark" alt="AtchayaGit" /></p>
+<p><img align="right" height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=AtchayaGit&theme=onedark" alt="AtchayaGit" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
@@ -42,4 +41,3 @@
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=AtchayaGit&theme=react-dark"/>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-</p>
