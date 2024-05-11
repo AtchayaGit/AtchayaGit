@@ -25,8 +25,6 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtchayaGit&langs_count=8&theme=onedark" alt=AtchayaGit />
-
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=AtchayaGit&show_icons=true&locale=en&theme=onedark" alt="AtchayaGit" /></p>
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AtchayaGit&theme=onedark" alt="AtchayaGit" /></p>
