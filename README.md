@@ -4,7 +4,7 @@
 
 <h3 align="Center">Connect with me:</h3>
 <p align="Center">
-<a href="https://linkedin.com/in/in/atchaya-r-901110251" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="in/atchaya-r-901110251" height="30" width="40" /></a></p>
+<a href="www.linkedin.com/in/atchaya-r-901110251" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="in/atchaya-r-901110251" height="30" width="40" /></a></p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
